@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": [
+      "dom",
+      "es2019"
+    ],
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2018"
+  }
+}
